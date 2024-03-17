@@ -1,29 +1,11 @@
-# MoreFlix
+# Moreflix
+A Movie Platform to watch some of these online, when searching I see that all these platforms are paid and the ones that existed were free They did not provide the best service or reliability, so thanks to that situation, Moreflix emerged, so that other people do not have restrictions on both payment and a good user experience.
 
-This template should help get you started developing with Vue 3 in Vite.
+## Tools
+Python - Programming Language <br/>
+Django - Web Framework <br/>
+JWT - Authentication Library <br/>
+HTML, CSS, Java Script
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+## Preview
+<img style="aspect-ratio:16/9; width:100%;height:600px;" src="./src/img/moreflix.png">
